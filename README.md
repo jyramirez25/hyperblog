@@ -6,6 +6,7 @@ En este curso se implemento:
 * todos los comandos git
 * flujo de trabajo en github
 * buenas practicas
+* by Juan.
 
 ** nota ** : este readme es de practica de como manejar y que se puede hacer en un archivo README.md ** no lo tomes en serio**
 
