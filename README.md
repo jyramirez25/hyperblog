@@ -8,6 +8,8 @@ En este curso se implemento:
 * buenas practicas
 * by Juan.
 * ejemplos en windows linux y mac
+* disponible para todas las edades
+
 ** nota ** : este readme es de practica de como manejar y que se puede hacer en un archivo README.md ** no lo tomes en serio**
 
 by Meditor.md
